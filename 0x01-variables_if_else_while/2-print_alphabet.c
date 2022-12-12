@@ -2,6 +2,7 @@
 
 /**
  * main - Prints the alphabet in lowercase
+ * and adds a new line
  *
  * Return Always 0 (Success)
 */
