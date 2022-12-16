@@ -5,13 +5,12 @@
  *
  * @a: the first interger to be added
  * @b: the second interger to be added
- * @c: the sum of a and b
+ * 
+ * Return: The result of the addition.
  *
 */
 
 int add(int a, int b)
 {
-	int c = a +b;
-
-	return (c);
+	return (a + b);
 }
