@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * main - This function prints _putchar and add a new line
+ * main - Prints out _putchar and adds a new line
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
 */
 
 int main(void)
@@ -17,7 +17,6 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	_putchar('\n');
 
 	return (0);
 }
