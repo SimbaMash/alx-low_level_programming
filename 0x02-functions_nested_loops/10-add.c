@@ -5,7 +5,7 @@
  *
  * @a: the first interger to be added
  * @b: the second interger to be added
- * 
+ *
  * Return: The result of the addition.
  *
 */
