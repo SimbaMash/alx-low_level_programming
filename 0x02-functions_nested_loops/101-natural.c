@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - ists all the natural numbers below 1024 (excluded)
  * that are multiples of 3 or 5
  *
@@ -11,7 +10,6 @@
 
 
 int main(void)
-
 {
 	int i, sum = 0;
 
