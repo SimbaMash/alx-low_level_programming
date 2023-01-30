@@ -1,16 +1,23 @@
 #include "main.h"
 
 /**
- * _isalpha - checks for alphabetic character
- * @c: character to be printed
+ * _isalpha - check the code for ALX School students.
  *
- * Return: 1 if c is a lowercase or uppercase, 0 otherwise
+ * @c: is c an integer argument
+ *
+ * Return: Always 0.
  */
 
 int _isalpha(int c)
 {
-	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+
+	if (c >= 97 && c <= 122)
+	{
 		return (1);
-	else
-		return (0);
+	}
+	else if (c >= 65 && c <= 90)
+	{
+		return (1);
+	}
+	return (0);
 }
