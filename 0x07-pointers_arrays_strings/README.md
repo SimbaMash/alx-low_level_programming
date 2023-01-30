@@ -1,1 +1,1 @@
-The read me file for more pointers, arrays and strings.
+This is the readme file for this task.
